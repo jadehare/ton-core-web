@@ -23,3 +23,7 @@ This library is developed by the [Whales Corp.](https://tonwhales.com/) and main
 # License
 
 MIT
+
+## build-web
+npm run rollup // libs/toncore.js
+npm run browserify // build/toncore.web.js
